@@ -1,0 +1,35 @@
+@import'https://fonts.googleapis.com/css?family=Londrina+Shadow';
+@import 'https://fonts.googleapis.com/css?family=Special+Elite';
+
+
+.image
+{
+  position: relative;
+  width: 100%; /* for IE 6 */
+}
+
+.image h2
+{
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 100%;
+  color: #fff;
+}
+
+.image span
+{
+  float: left;
+  clear: left;
+  color: white;
+  font:  H1{
+      font-family: 'Londrina Shadow', cursive;
+      
+    }
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.5);
+  padding: 3px 10px;
+}
+
+

@@ -1,0 +1,44 @@
+@import 'https://fonts.googleapis.com/css?family=Special+Elite';
+
+
+@font-face 
+    font-family: 'weathericons';
+    src: url('https://drive.google.com/file/d/0B3MzNH4QQ6Z0Ym4tZmx5Z3RpSEE/view?usp=sharing');
+   
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+  background-color:orange;
+}
+h1{
+  font-family:'Special Elite', cursive;
+  font-size:40px;
+}
+h2{
+  font-family:'Special Elite', cursive;
+}
+p{
+  font-family:'Special Elite', cursive;
+}
+.btn{
+  font-size:20px;
+  font-family:'Special Elite', cursive;
+  padding:10px;
+  margin-top:30px;
+  border-color:black;
+  border-radius:10px;
+  background-color:white;
+}
+
+.icons{
+  font-family:'weathericons';
+}
+
+}
+
+.jumbotron {
+  padding: 200px;
+}
